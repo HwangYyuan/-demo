@@ -1,9 +1,6 @@
 <template>
     <div>
         <datagrid :config="config"></datagrid>
-        <div>123</div>
-        <div>abc</div>
-        <div>ABC</div>
     </div>
 </template>
 
